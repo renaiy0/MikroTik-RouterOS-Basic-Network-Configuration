@@ -24,11 +24,11 @@ INTERNET (192.168.1.0/24)
 ## Screenshots
 
 ### RouterOS Console View
-![RouterOS Console](./assets/routeros-console.png)
+![RouterOS Console](/assets/routeros.png)
 *Console RouterOS menampilkan konfigurasi interface dan hasil ping test*
 
 ### WinBox Interface Configuration
-![WinBox Configuration](./assets/winbox-interface.png)
+![WinBox Configuration](/assets/winboxsetup.png)
 *Tampilan WinBox menampilkan konfigurasi interface, IP address, routing, dan DHCP server*
 
 ---
